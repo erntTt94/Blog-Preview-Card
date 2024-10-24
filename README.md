@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/erntTt94/Blog-Preview-Card.git)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://github.com/erntTt94/Blog-Preview-Card.git](https://github.com/erntTt94/Blog-Preview-Card.git)
+- Live Site URL: [https://ernttt94.github.io/Blog-Preview-Card/](https://ernttt94.github.io/Blog-Preview-Card/)
 
 ## My process
 
@@ -38,4 +38,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/erntTt94)
+- Frontend Mentor - [@erntTt94](https://www.frontendmentor.io/profile/erntTt94)
